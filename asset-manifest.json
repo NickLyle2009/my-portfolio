@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1796d73.css",
+    "main.js": "/static/js/main.02c5579b.js",
+    "static/media/CurrencyComparison.png": "/static/media/CurrencyComparison.443fddbc9990e4eb256b.png",
+    "static/media/EmployeeTracker.png": "/static/media/EmployeeTracker.1ebc6548b9cda3f988ce.png",
+    "static/media/READMEGenerator.png": "/static/media/READMEGenerator.ad5c95c78b4933d4bb11.png",
+    "static/media/Cinemagic.png": "/static/media/Cinemagic.73c224c1f181e484f88a.png",
+    "index.html": "/index.html",
+    "main.d1796d73.css.map": "/static/css/main.d1796d73.css.map",
+    "main.02c5579b.js.map": "/static/js/main.02c5579b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1796d73.css",
+    "static/js/main.02c5579b.js"
+  ]
+}
