@@ -1,7 +1,7 @@
 import React from "react";
 
 
-export default function MyWork() {return ( <div className='px-5 py-4'>
+export default function MyWork() {return ( <div>
 <h1>My Work</h1>
 <section id="portfolio">
       <div className="border column">

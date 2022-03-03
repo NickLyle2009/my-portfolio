@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App() {
   return (
-    <div class = "d-flex flex-column container app">
+    <div>
       <Header/>
       <Footer/>
     </div>

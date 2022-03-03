@@ -4,8 +4,9 @@
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     }
-#app {
-  background-color: slategray;
+#root {
+  background-color:#1e1e22;
+  color:white
 }
 h1 {
 Color:white;
@@ -32,7 +33,7 @@ padding:20px;
 }
 
 .bottom-contact {
-  background-color:#126840
+  background-color:#196812
 }
 
 .bottom-contact ul {
@@ -82,7 +83,7 @@ padding:20px;
   }
 
   .header{
-    background-color:#126840
+    background-color:#467a41
   }
 
   .work-title {
