@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://nicklyle2009.github.io",
+  "homepage": "https://nicklyle2009.github.io/my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d main build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
