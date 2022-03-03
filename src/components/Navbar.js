@@ -1,10 +1,10 @@
 import React from "react";
-import '../styles/styles.css';
+import '../App.css';
 
 export default function Navbar({ currentPage, handlePageChange }) {
     return (
-      <ul className="nav nav-tabs">
-        <li className="nav-item">
+      <ul className="nav navbar-tabs">
+        <li className="navbar-tab">
           <a
             href="#aboutMe"
             onClick={() => handlePageChange('AboutMe')}
@@ -13,7 +13,7 @@ export default function Navbar({ currentPage, handlePageChange }) {
             About Me
           </a>
         </li>
-        <li className="nav-item">
+        <li className="navbar-tab">
           <a
             href="#Contact"
             onClick={() => handlePageChange('Contact')}
@@ -22,7 +22,7 @@ export default function Navbar({ currentPage, handlePageChange }) {
             Contact
           </a>
         </li>
-        <li className="nav-item">
+        <li className="navbar-tab">
           <a
             href="#myWork"
             onClick={() => handlePageChange('MyWork')}

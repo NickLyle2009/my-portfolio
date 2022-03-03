@@ -4,7 +4,7 @@ import AboutMe from "./pages/AboutMe";
 import Navbar from "./Navbar";
 import MyWork from "./pages/MyWork";
 import Contact from './pages/Contact'
-import "../styles/styles.css";
+import "../App.css";
 
 export default function Header() {
   const [currentPage, setCurrentPage] = useState("AboutMe");
@@ -20,7 +20,7 @@ export default function Header() {
   const handlePageChange = (page) => setCurrentPage(page);
   return (
     <div>
-      <div className="header px-5">
+      <div className="header px-4">
         <h1>Welcome!</h1>
         <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
       </div>

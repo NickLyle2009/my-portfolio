@@ -1,0 +1,98 @@
+* {
+  margin:0;
+  padding:0;    
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    }
+#app {
+  background-color: slategray;
+}
+h1 {
+Color:white;
+padding-top: 0px;
+padding-bottom:15px;
+Margin:10px
+
+}
+a {
+color:lightgray;
+text-decoration: none;
+padding: 5px 10px;
+}
+
+nav {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+aside {
+font-size: 2.4rem;
+color :darkslateblue;
+padding:20px;
+}
+
+.bottom-contact {
+  background-color:#126840
+}
+
+.bottom-contact ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.bottom-contact ul li a {
+  text-decoration: none;
+  
+}
+
+#headshotNick{
+  margin:20px
+}
+
+#cinemagic {
+    background-image: url(../public/images/Cinemagic.png);
+    width: 400px;
+    height: 200px;
+  }
+ 
+  #README {
+    background-image: url(../public/images/READMEGenerator.png);
+    width: 400px;
+    height: 200px
+  }
+  
+  #currencycomparison {
+    background-image: url(../public/images/CurrencyComparison.png);
+    width:400px;
+    height:200px
+  }
+  
+  #passwordGenerator {
+    background-image: url(../public/images/PasswordGenerator.png);
+    width: 400px;
+    height: 200px
+  }
+  
+  #employeeTracking {
+    background-image: url(../public/images/EmployeeTracker.png);
+    width: 400px;
+    height: 200px
+    
+  }
+
+  .header{
+    background-color:#126840
+  }
+
+  .work-title {
+    margin-top: 5px;
+    padding: 10px;
+    color:#127a32;
+    background-color:#88ad93
+
+  }
+  .card-image {
+    background-repeat: none;
+    background-size: cover;
+  }
