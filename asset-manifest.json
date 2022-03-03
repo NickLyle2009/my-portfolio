@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1796d73.css",
-    "main.js": "/static/js/main.02c5579b.js",
-    "static/media/CurrencyComparison.png": "/static/media/CurrencyComparison.443fddbc9990e4eb256b.png",
-    "static/media/EmployeeTracker.png": "/static/media/EmployeeTracker.1ebc6548b9cda3f988ce.png",
-    "static/media/READMEGenerator.png": "/static/media/READMEGenerator.ad5c95c78b4933d4bb11.png",
-    "static/media/Cinemagic.png": "/static/media/Cinemagic.73c224c1f181e484f88a.png",
-    "index.html": "/index.html",
-    "main.d1796d73.css.map": "/static/css/main.d1796d73.css.map",
-    "main.02c5579b.js.map": "/static/js/main.02c5579b.js.map"
+    "main.css": "/my-portfolio/static/css/main.9b5c2873.css",
+    "main.js": "/my-portfolio/static/js/main.7325fc99.js",
+    "static/media/CurrencyComparison.png": "/my-portfolio/static/media/CurrencyComparison.443fddbc9990e4eb256b.png",
+    "static/media/EmployeeTracker.png": "/my-portfolio/static/media/EmployeeTracker.1ebc6548b9cda3f988ce.png",
+    "static/media/READMEGenerator.png": "/my-portfolio/static/media/READMEGenerator.ad5c95c78b4933d4bb11.png",
+    "static/media/Cinemagic.png": "/my-portfolio/static/media/Cinemagic.73c224c1f181e484f88a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.9b5c2873.css.map": "/my-portfolio/static/css/main.9b5c2873.css.map",
+    "main.7325fc99.js.map": "/my-portfolio/static/js/main.7325fc99.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1796d73.css",
-    "static/js/main.02c5579b.js"
+    "static/css/main.9b5c2873.css",
+    "static/js/main.7325fc99.js"
   ]
 }
